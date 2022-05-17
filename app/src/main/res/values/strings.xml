@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Physycal Calulator</string>
+    <string name="text_info">Для расчета нужно написать необходимую точность и количество измерений. Далее в поля таблицы ввести значения измерений и нажать кнопку \'\'Ответ\'\'</string>
+    <string name="text_num_of_experiments">Сюда вводить количество измерений (2-30)</string>
+    <string name="text_accuracy">Сюда вводить точность измерений (0,5; 0,6; 0,7; 0,8; 0,9; 0,95; 0,98; 0,99)</string>
+    <string name="button_text_answer">Ответ</string>
+    <string name="text_a">a</string>
+    <string name="text_a_a"><![CDATA[a-<a>]]></string>
+    <string name="text_a_a_2"><![CDATA[(a-<a>)^2]]></string>
+</resources>
